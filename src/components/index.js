@@ -1,8 +1,8 @@
-import ListCategories from "./ListCategories"
-import Hasil from "./Hasil"
-import NavbarComponents from "./NavbarComponents"
-import Menus from "./Menus"
+import Hasil from "./Hasil";
+import ListCategories from "./ListCategories";
+import Menus from "./Menus";
+import NavbarComponents from "./NavbarComponents";
 
 
 
-export {ListCategories, Hasil, NavbarComponents, Menus}
+export {Hasil, ListCategories, Menus, NavbarComponents}

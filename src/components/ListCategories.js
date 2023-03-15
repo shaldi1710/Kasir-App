@@ -40,7 +40,7 @@ export default class ListCategories extends Component {
   render() {
     const { categories } = this.state
     const { changeCategory, categoriYangDipilih } = this.props
-    console.log("categories : ", this.state.categories);
+    // console.log("categories : ", this.state.categories);
     return (
       <Col md={2} mt="2">
         <h4><strong>Daftar Kategori</strong></h4>
